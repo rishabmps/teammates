@@ -56,19 +56,6 @@
             </div>
             <div class="row margin-top-7px">
                 <div class="col-xs-12 col-sm-5 col-md-4 col-lg-3">
-                    <img class="img-responsive" src="images/teammembers/thyagesh.png">
-                </div>
-                <div class="col-xs-12 col-sm-7 col-md-6 margin-top-7px">
-                    Thyagesh Manikandan<br><br>
-                    Project Mentor (June 2016 - )<br>
-                    Project Lead (Jan 2016 - May 2016)<br>
-                    Area Lead - Profiles (Aug 2014 - Dec 2015)<br>
-                    Snr Developer (June 2014 - Jul 2014)<br>
-                    Committer (Apr 2014 - May 2014)
-                </div>
-            </div>
-            <div class="row margin-top-7px">
-                <div class="col-xs-12 col-sm-5 col-md-4 col-lg-3">
                     <img class="img-responsive" src="images/teammembers/wilson.png">
                 </div>
                 <div class="col-xs-12 col-sm-7 col-md-6 margin-top-7px">
@@ -102,50 +89,13 @@
                 </div>
             </div>
             <div class="row margin-top-7px">
-                <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-0 col-md-3 col-lg-2">
-                    <img class="img-responsive" src="images/teammembers/yuanbin.png">
+                <div class="col-xs-8 col-xs-offset-2 col-sm-5 col-sm-offset-0 col-md-4 col-lg-3">
+                    <img class="img-responsive" width="90%" src="images/teammembers/yuanbin.png">
                 </div>
-                <div class="col-xs-10 col-xs-offset-1 col-sm-7 col-sm-offset-0 col-md-6 margin-top-7px">
-                    Chow Yuan Bin<br>
+                <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-7 col-md-8 margin-top-7px">
+                    Chow Yuan Bin<br><br>
                     Snr Developer (Aug 2016 - )<br>
                     Committer (May 2016 - Jul 2016)
-                </div>
-            </div>
-            <div class="row margin-top-7px">
-                <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-0 col-md-3 col-lg-2">
-                    <img class="img-responsive" src="images/teammembers/yongjie.png">
-                </div>
-                <div class="col-xs-10 col-xs-offset-1 col-sm-7 col-sm-offset-0 col-md-6 margin-top-7px">
-                    Khoo Yong Jie<br>
-                    Snr Developer (Aug 2016 - )<br>
-                    Committer (May 2016 - Jul 2016)
-                </div>
-            </div>
-            <div class="row margin-top-7px">
-                <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-0 col-md-3 col-lg-2">
-                    <img class="img-responsive" src="images/teammembers/lakmal.png">
-                </div>
-                <div class="col-xs-10 col-xs-offset-1 col-sm-7 col-sm-offset-0 col-md-6 margin-top-7px">
-                    Lakmal Padmakumara<br>
-                    Major contributor (May 2016 - )
-                </div>
-            </div>
-            <div class="row margin-top-7px">
-                <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-0 col-md-3 col-lg-2">
-                    <img class="img-responsive" src="images/teammembers/serhii.png">
-                </div>
-                <div class="col-xs-10 col-xs-offset-1 col-sm-7 col-sm-offset-0 col-md-6 margin-top-7px">
-                    Serhii Beliablia<br>
-                    Major contributor (May 2016 - )
-                </div>
-            </div>
-            <div class="row margin-top-7px">
-                <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-0 col-md-3 col-lg-2">
-                    <img class="img-responsive" src="images/teammembers/tarun.png">
-                </div>
-                <div class="col-xs-10 col-xs-offset-1 col-sm-7 col-sm-offset-0 col-md-6 margin-top-7px">
-                    Tarun Kumar Yadav<br>
-                    Major contributor (May 2016 - )
                 </div>
             </div>
         </section>
@@ -163,6 +113,36 @@
         <section class="row">
             <h3>Past Team Members:</h3>
             <ol>
+                <li>
+                    <img src="images/teammembers/thyagesh.png" width="80px"><br>
+                    Thyagesh Manikandan<br>
+                    Project Mentor (June 2016 - Dec 2016)<br>
+                    Project Lead (Jan 2016 - May 2016)<br>
+                    Area Lead - Profiles (Aug 2014 - Dec 2015)<br>
+                    Snr Developer (June 2014 - Jul 2014)<br>
+                    Committer (Apr 2014 - May 2014)<br><br>
+                </li>
+                <li>
+                    <img src="images/teammembers/serhii.png" width="80px"><br>
+                    Serhii Beliablia<br>
+                    Major contributor (May 2016 - Dec 2016)<br><br>
+                </li>
+                <li>
+                    <img src="images/teammembers/lakmal.png" width="80px"><br>
+                    Lakmal Padmakumara<br>
+                    Major contributor (May 2016 - Dec 2016)<br><br>
+                </li>
+                <li>
+                    <img src="images/teammembers/tarun.png" width="80px"><br>
+                    Tarun Kumar Yadav<br>
+                    Major contributor (May 2016 - Dec 2016)<br><br>
+                </li>
+                <li>
+                    <img src="images/teammembers/yongjie.png" width="80px"><br>
+                    Khoo Yong Jie<br>
+                    Snr Developer (Aug 2016 - Dec 2016)<br>
+                    Committer (May 2016 - Jul 2016)<br><br>
+                </li>
                 <li>
                     <img src="images/teammembers/weilin.png" width="80px"><br> 
                     Low WeiLin<br>
