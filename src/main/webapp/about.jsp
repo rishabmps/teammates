@@ -101,12 +101,16 @@
         </section>
 
         <section class="row">
-            <h3>Past Committers:</h3>
+            <h3>Committers:</h3>
             <ol>
-                <li>John Kevin Tjahjadi (Jan 2016 - May 2016)</li>
-                <li>Kenneth Ho Chee Chong (Jan 2016 - May 2016)</li>
-                <li>Su Sumei (Jan 2016 - May 2016)</li>
-                <li>Wong Yu Xuan (Jan 2016 - May 2016)</li>
+                <li>Ch'ng Ming Shin (Jan 2017 - )</li>
+                <li>Dickson Tan (Jan 2017 - )</li>
+                <li>John Yong (Jan 2017 - )</li>
+                <li>Lee Yi Min (Jan 2017 - )</li>
+                <li>Li Kai (Jan 2017 - )</li>
+                <li>Samson Tan (Jan 2017 - )</li>
+                <li>Thenaesh Elango (Jan 2017 - )</li>
+                <li>Xiao Pu (Jan 2017 - )</li>
             </ol>
         </section>
 
@@ -268,6 +272,16 @@
         </section>
 
         <section class="row">
+            <h3>Past Committers:</h3>
+            <ol>
+                <li>John Kevin Tjahjadi (Jan 2016 - May 2016)</li>
+                <li>Kenneth Ho Chee Chong (Jan 2016 - May 2016)</li>
+                <li>Su Sumei (Jan 2016 - May 2016)</li>
+                <li>Wong Yu Xuan (Jan 2016 - May 2016)</li>
+            </ol>
+        </section>
+
+        <section class="row">
             <h3>Contributors:</h3>
             <table class="ordered-table">
                 <tr class="skip"><th colspan="2">Multiple contributions</th></tr>
@@ -340,11 +354,6 @@
                     <td>bug reporting/fixing, enhancements</td>
                 </tr>
                 <tr>
-                    <td>Chng Ming Shin</td>
-                    <td><a href="https://github.com/TEAMMATES/teammates/issues?q=involves%3Aablyx"
-                        target="_blank" rel="noopener noreferrer">bug reporting/fixing, enhancements</a></td>
-                </tr>
-                <tr>
                     <td>Chong Kok Wei</td>
                     <td>bug reporting/fixing, enhancements</td>
                 </tr>
@@ -367,11 +376,6 @@
                 <tr>
                     <td>Devang Gaur</td>
                     <td><a href="https://github.com/TEAMMATES/teammates/issues?q=involves%3Adg711"
-                        target="_blank" rel="noopener noreferrer">bug reporting/fixing, enhancements</a></td>
-                </tr>
-                <tr>
-                    <td>Dickson Tan</td>
-                    <td><a href="https://github.com/TEAMMATES/teammates/issues?q=involves%3ANeurrone"
                         target="_blank" rel="noopener noreferrer">bug reporting/fixing, enhancements</a></td>
                 </tr>
                 <tr>
@@ -436,11 +440,6 @@
                     <td>bug reporting/fixing, enhancements</td>
                 </tr>
                 <tr>
-                    <td>John Yong</td>
-                    <td><a href="https://github.com/TEAMMATES/teammates/issues?q=involves%3Awhipermr5"
-                        target="_blank" rel="noopener noreferrer">bug reporting/fixing, enhancements</a></td>
-                </tr>
-                <tr>
                     <td>Joshua Lee</td>
                     <td><a href="https://github.com/TEAMMATES/teammates/issues?q=involves%3Alejolly"
                         target="_blank" rel="noopener noreferrer">bug reporting/fixing, enhancements</a></td>
@@ -474,22 +473,12 @@
                         target="_blank" rel="noopener noreferrer">bug reporting/fixing, enhancements</a></td>
                 </tr>
                 <tr>
-                    <td>Lee Yi Min</td>
-                    <td><a href="https://github.com/TEAMMATES/teammates/issues?q=involves%3Aleeyimin"
-                        target="_blank" rel="noopener noreferrer">bug reporting/fixing, enhancements</a></td>
-                </tr>
-                <tr>
                     <td>Le Minh Khue</td>
                     <td>bug reporting/fixing, enhancements</td>
                 </tr>
                 <tr>
                     <td>Le Viet Tien</td>
                     <td>bug reporting/fixing, enhancements</td>
-                </tr>
-                <tr>
-                    <td>Li Kai</td>
-                    <td><a href="https://github.com/TEAMMATES/teammates/issues?q=involves%3Ali-kai"
-                        target="_blank" rel="noopener noreferrer">bug reporting/fixing, enhancements</a></td>
                 </tr>
                 <tr>
                     <td>Lian Wenhui Florine</td>
@@ -612,11 +601,6 @@
                         target="_blank" rel="noopener noreferrer">bug reporting/fixing, enhancements</a></td>
                 </tr>
                 <tr>
-                    <td>Samson Tan</td>
-                    <td><a href="https://github.com/TEAMMATES/teammates/issues?q=involves%3Asamsontmr"
-                        target="_blank" rel="noopener noreferrer">bug reporting/fixing, enhancements</a></td>
-                </tr>
-                <tr>
                     <td>Shawn Teo Chee Yong</td>
                     <td>bug reporting/fixing, enhancements</td>
                 </tr>
@@ -725,11 +709,6 @@
                     <td>bug reporting/fixing, enhancements</td>
                 </tr>
                 <tr>
-                    <td>Thenaesh Elango</td>
-                    <td><a href="https://github.com/TEAMMATES/teammates/issues?q=involves%3Athenaesh"
-                        target="_blank" rel="noopener noreferrer">bug reporting/fixing, enhancements</a></td>
-                </tr>
-                <tr>
                     <td>Thng Kai Yuan</td>
                     <td><a href="https://github.com/TEAMMATES/teammates/issues?q=involves%3Athngkaiyuan"
                         target="_blank" rel="noopener noreferrer">bug reporting/fixing, enhancements</a></td>
@@ -753,11 +732,6 @@
                 <tr>
                     <td>Xia Lu</td>
                     <td>bug reporting/fixing, enhancements</td>
-                </tr>
-                <tr>
-                    <td>Xiao Pu</td>
-                    <td><a href="https://github.com/TEAMMATES/teammates/issues?q=involves%3Axpdavid"
-                        target="_blank" rel="noopener noreferrer">bug reporting/fixing, enhancements</a></td>
                 </tr>
                 <tr>
                     <td>Y V S S Santosh</td>
